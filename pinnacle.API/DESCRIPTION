@@ -1,0 +1,10 @@
+Package: pinnacle.API
+Title: Get And Post Data Via The Pinnaclesports.com API
+Version: 1.164
+Author: Marco Blume, Nicholas Jhirad, Amine Gassem
+Maintainer: Nicholas Jhirad <nicholas.jhirad@pinnaclesports.com>
+Description: Use this package as a GUIDELINE only. All responsibility of activity on pinnaclesports.com lies with the user of the package and NOT with the authors of the package. Especially wagers placed with the help of this packages are the sole responsibility of the user of this package. The authors and maintainers of the package are not liable or responsible in any form.Please consult http://www.pinnaclesports.com/en/api/manual#fair-use,http://www.pinnaclesports.com/api-xml/terms-and-conditions.aspx and http://www.pinnaclesports.com/en/termsandconditions
+License: GPL-3
+LazyData: true
+Imports: RCurl,XML,httr,jsonlite,plyr,rjson,uuid,dplyr
+Packaged: 2015-08-28 15:34:45 UTC; nicholasj
